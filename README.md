@@ -2,7 +2,7 @@
 
 This is a list containing ideas for the three different levels of projects you can build. You can find an explanation for the different levels of projects in this YouTube Video
 
-![Three levels of portfolio projects pyramid](three-levels-pyramid.png)
+![Three levels of projects pyramid](three-levels-pyramid.png)
 
 ## Level 1: Simple
 

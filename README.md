@@ -35,4 +35,4 @@ This is a list containing ideas for the three different levels of projects you c
 - Password Manager Extension deployed on the Chrome Store
 - AI Habit Tracker w/ 500 users
 
-Get more ideas for commercial projects [here]("https://producthunt.com") 
+Get more ideas for commercial projects [here](https://producthunt.com) 
